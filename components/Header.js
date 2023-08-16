@@ -17,28 +17,28 @@ export default function Header() {
         text-white
       "
       >
-        Scelerisque egestas et euismod.
+        
         <a href="/" className="pl-3 underline">
-          Take me there
+     
         </a>
       </div>
       <div className="grotesk mt-6 mb-16 flex items-center justify-between py-4 px-4 sm:mx-0 sm:mb-20 sm:px-0 md:px-6">
         <div className="mt-4 inline-block pb-4 pl-8">
           <a href="/" className="align-middle text-3xl font-bold text-black">
-            NINE4
+          Graduate Desk
           </a>
           <div className="hidden pl-14 align-middle xl:inline-block">
             <a href="/" className="pr-12 text-xl text-black">
-              Cras.
+              Home
             </a>
             <a href="/" className="pr-12 text-xl text-black">
-              Cras.
+              Applications List
             </a>
             <a href="/" className="pr-12 text-xl text-black">
-              Fringilla.
+              Customers
             </a>
             <a href="/" className="text-xl text-black">
-              Enim.
+              About us.
             </a>
           </div>
         </div>
@@ -54,7 +54,7 @@ export default function Header() {
               className="bg-blue mt-2 inline-flex items-center px-8 py-3 text-lg font-semibold tracking-tighter text-white"
               href="/"
             >
-              Request a demo
+              Register
             </a>
           </div>
           <button className="pr-12 pl-4">
